@@ -1,0 +1,64 @@
+img{
+    width:1350px; 
+    height:550px;
+ }
+ .navbar{
+     box-shadow:2px 2px grey;
+     grid-area:navbar;
+     width:700vh;
+     height:5vh;
+     position:fixed ;
+     top:0;
+    background-color:white;
+ }
+ .s1{
+     width:350px;
+     height:300px;
+ }
+ .s2{
+     width:350px;
+     height:300px;
+ }
+ .s3{
+     width:350px;
+     height:300px;
+ }
+ .sai{
+     display:flex;
+     justify-content:space-evenly;
+ }
+ .k1{
+     width:370px;
+     height:300px;
+ }
+ .k2{
+     width:370px;
+     height:300px;
+ }
+ .k3{
+     width:370px;
+     height:300px;
+ }
+ .kumar{
+     display:flex;
+     justify-content:space-evenly;
+ }
+ .pa1{
+     display:flex;
+     justify-content:space-evenly;
+ }
+ footer{
+     background-color:green;
+ }
+ .v1{
+     display:flex;
+     justify-content:space-evenly;
+ }
+ .q1{
+    width: 350px;
+    height: 280px;
+ }
+ .w1{
+   width: 350px;
+   height: 300px;
+ }
